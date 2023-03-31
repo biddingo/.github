@@ -5,10 +5,10 @@
 <style type="text/css">
     .st0{fill:#FFFFFF;}
     .st1{fill:#0078D4;}
-    .st2{fill:#231F20;}
+    .st2{fill:#5B606C;}
     .st3{fill:#5B606C;}
 
-    @media (prefers-color-scheme:dark) {
+    @media (prefers-color-scheme: dark) {
         .st2{fill:#FFFFFF;}
         .st3{fill:#FFFFFF;}
     }
