@@ -1,3 +1,3 @@
 # Hi There! 👋
 
-![Biddingo](biddingo-logo.svg)
+![Biddingo](./biddingo-logo.svg)
