@@ -13,9 +13,9 @@ If you believe you have found a security vulnerability in any Biddingo-owned rep
 
 ### Purpose and Scope
 
-This policy is intended to ensure the protection of {Your Company's Name} assets - information, data, network systems, and devices - from threats, including but not limited to cyber attacks, theft, and unauthorized access.
+This policy is intended to ensure the protection of Biddingo assets - information, data, network systems, and devices - from threats, including but not limited to cyber attacks, theft, and unauthorized access.
 
-This policy applies to all employees, contractors, and consultants who use, process, or have access to {Your Company's Name} assets.
+This policy applies to all employees, contractors, and consultants who use, process, or have access to Biddingo assets.
 
 ### Network & System Access
 
